@@ -1,0 +1,19 @@
+{
+  "name": "mailgun-cloudflare-worker",
+  "version": "1.0.0",
+  "description": "A Cloudflare Worker that integrates with Mailgun for sending emails.",
+  "main": "index.js",
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler publish"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
