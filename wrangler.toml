@@ -1,4 +1,4 @@
-name = "mailgun-cloudflare-worker"
+name = "mailgun-cloudflare-worker-2"
 main = "worker.js"
 compatibility_date = "2025-01-08"
 
